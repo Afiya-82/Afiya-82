@@ -41,7 +41,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afiya-82&show_icons=true&locale=en&layout=compact" alt="afiya-82" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afiya-82&show_icons=true&locale=en" alt="afiya-82" /></p>
-------
+
+-----
+
 🏆 **Achievements**
 
 🏅 Top 25 Finalist at Smart India Hackathon 2023 – Our project is about the Smart Toilet .
@@ -64,6 +66,6 @@
 🐦 Instagram: zaini6
 
 -----
-                                                                              **Thank you for stopping by!** 🌟 
+                                                                  Thank you for stopping by! 🌟 
 
 
