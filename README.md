@@ -4,9 +4,10 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiya-82&label=Profile%20views&color=0e75b6&style=flat" alt="afiya-82" /> </p>
+
 🎓 **Education**
 
-📚 High School (10th)
+📚 **High School (10th)**
 
  I have completed my 10 class from Radha Madhav Public School in 2018 with 78%
 
@@ -17,7 +18,7 @@
 🎓 **College/University**
 
  I am currently pursuing B.Tech AI&ML from Chandigarh Group oF Colleges Jhanjeri
----
+
 
 - 🔭 I’m currently working on **Movie Recommendation System using ML**
 
