@@ -1,35 +1,35 @@
 <h1 align="center">Hi 👋, I'm Afiya Rani</h1>
 <h3 align="center">A passionate passionate AI&ML enthusiast with a knack for crafting dynamic and user-centric web applications.</h3>
-------
+
 🎓 **Education**
 
 📚 High School (10th)
 
-🏫 [Radha Madhav Public School
+ [Radha Madhav Public School
 
-🗓️ Year of Completion: [202018]
+ Year of Completion: [2018]
 
-🎯 Percentage: 78.4%
+ Percentage: 78.4%
 
 📘 **Higher Secondary (12th)**
 
-🏫 [Radha Madhav Public School
+ [Radha Madhav Public School
 
-📚 Specialization:PCM +Computer Science]
+ Specialization:PCM +Computer Science]
 
-🗓️ Year of Completion:[2020]
+🗓 Year of Completion:[2020]
 
-🎯 Percentage:78%
+ Percentage:78%
 
 🎓 **College/University**
 
-🏫 Chandigarh Group oF Colleges Jhanjeri, Mohali
+ Chandigarh Group oF Colleges Jhanjeri, Mohali
 
-📚 Degree: B.Tech AI&ML
+ Degree: B.Tech AI&ML
 
-🗓️ Year of Graduation: [2026]
+ Year of Graduation: [2026]
 
-🎯 Aggregiate CGPA: [7.7]
+ Aggregiate CGPA: [7.7]
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -66,10 +66,10 @@
 
 
 📫 Let’s Connect
-📧 Email: **naziyarani6@hmail.com**
-💼 LinkedIn: **https://www.linkedin.com/in/afiya-rani-b28227294**
-📊 LeetCode: **afiya_rani73**
-🐦 Instagram: **zaini6**
+📧 Email: naziyarani6@hmail.com
+💼 LinkedIn: https://www.linkedin.com/in/afiya-rani-b28227294
+📊 LeetCode: afiya_rani73
+🐦 Instagram: zaini6
 -----
                                                                               **Thank you for stopping by!** 🌟 
 
