@@ -33,6 +33,7 @@
 <a href="https://linkedin.com/in/afiya rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afiya rani" height="30" width="40" /></a>
 <a href="https://kaggle.com/naziyarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naziyarani" height="30" width="40" /></a>
 <a href="https://instagram.com/za_in_i6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="za_in_i6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/afiya_rani73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afiya_rani73" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,23 +49,13 @@
 
 🏅 Top 25 Finalist at Smart India Hackathon 2023 – Our project is about the Smart Toilet .
 
+-----
+
 🏆 **Competitions**
 
 🌟 Smart India Hackathon 2023
 
 🌟 Hack N Win 2024
-
------
-
-📫 Let’s Connect
-
-📧 Email: naziyarani6@hmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/afiya-rani-b28227294
-
-
-
-🐦 Instagram: zaini6
 
 -----
                                                                   Thank you for stopping by! 🌟 
