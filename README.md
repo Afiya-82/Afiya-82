@@ -43,6 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afiya-82&show_icons=true&locale=en" alt="afiya-82" /></p>
 
+
 -----
 
 🏆 **Achievements**
@@ -58,6 +59,6 @@
 🌟 Hack N Win 2024
 
 
-                                                         Thank you for stopping by! 🌟 
+                                                         Thank you for stopping! 🌟 
 
 
