@@ -13,11 +13,11 @@
 
 📘 **Higher Secondary (12th)**
 
-  I have completed my 12 class from Radha Madhav Public School,Bareilly in 2020 with 78%
+ I have completed my 12 class from Radha Madhav Public School,Bareilly in 2020 with 78%
 
 🎓 **College/University**
 
- I am currently pursuing B.Tech AI&ML from Chandigarh Group oF Colleges Jhanjeri
+ Currently pursuing B.Tech AI&ML from Chandigarh Group oF Colleges Jhanjeri
 
 
 - 🔭 I’m currently working on **Movie Recommendation System using ML**
@@ -48,12 +48,13 @@
 
 🏅 Top 25 Finalist at Smart India Hackathon 2023 – Our project is about the Smart Toilet .
 
-🏅 **Competitions**
+🏆 **Competitions**
 
 🌟 Smart India Hackathon 2023
 
 🌟 Hack N Win 2024
 
+-----
 
 📫 Let’s Connect
 
@@ -61,7 +62,7 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/afiya-rani-b28227294
 
-📊 LeetCode: afiya_rani73
+
 
 🐦 Instagram: zaini6
 
