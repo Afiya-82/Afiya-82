@@ -9,11 +9,11 @@
 
 📚 **High School (10th)**
 
- I have completed my 10 class from Radha Madhav Public School in 2018 with 78%
+ I have completed my 10 class from Radha Madhav Public School, Bareilly in 2018 with 78%
 
 📘 **Higher Secondary (12th)**
 
-  I have completed my 12 class from Radha Madhav Public School in 2020 with 78%
+  I have completed my 12 class from Radha Madhav Public School,Bareilly in 2020 with 78%
 
 🎓 **College/University**
 
@@ -43,10 +43,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afiya-82&show_icons=true&locale=en" alt="afiya-82" /></p>
 ------
 🏆 **Achievements**
+
 🏅 Top 25 Finalist at Smart India Hackathon 2023 – Our project is about the Smart Toilet .
-----
+
 🏅 **Competitions**
+
 🌟 Smart India Hackathon 2023
+
 🌟 Hack N Win 2024
 
 
