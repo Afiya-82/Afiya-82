@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **naziyarani6@gmail.com**
 
-- ⚡ Fun fact **I think I am quit chatty**
+- ⚡ Fun fact **I think I am quite chatty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
