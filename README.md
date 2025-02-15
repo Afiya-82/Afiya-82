@@ -20,7 +20,7 @@
  Currently pursuing B.Tech AI&ML from Chandigarh Group oF Colleges Jhanjeri
 
 
-- 🔭 I’m currently working on **Movie Recommendation System using ML**
+- 🔭 I’m currently working on **AI powered Wildlife Monitoring System**
 
 - 💬 Ask me about **MERN stack nd ML**
 
